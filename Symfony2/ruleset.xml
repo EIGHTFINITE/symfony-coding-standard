@@ -88,6 +88,14 @@
         <severity>0</severity>
     </rule>
 
+    <rule ref="Symfony2.Commenting.FunctionComment.Missing">
+        <type>error</type>
+    </rule>
+
+    <rule ref="Symfony2.Commenting.ClassComment.Missing">
+        <type>error</type>
+    </rule>
+
     <rule ref="Symfony2.Commenting.FunctionComment.SpacingBeforeTags">
         <severity>0</severity>
     </rule>
