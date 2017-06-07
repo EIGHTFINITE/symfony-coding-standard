@@ -96,6 +96,10 @@
         <type>error</type>
     </rule>
 
+    <rule ref="Symfony2.Commenting.FunctionComment.MissingReturn">
+        <type>error</type>
+    </rule>
+
     <rule ref="Symfony2.Commenting.FunctionComment.SpacingBeforeTags">
         <severity>0</severity>
     </rule>
